@@ -1,0 +1,14 @@
+[package]
+edition = "2021"
+name = "mover"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+directories = "4.0.1"
+duration-string = "0.1.1"
+fs_extra = "1.2.0"
+log = "0.4.17"
+notify = "4.0.17"
+simplelog = "0.12.0"
